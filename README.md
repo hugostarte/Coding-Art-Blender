@@ -1,7 +1,8 @@
 # Coding-Art-Blender
 Inspired by David Mignot.
 
-This script is executed from the "Scripting" part of Blender.
+Just a small example of what can be done with the "scripting" part of blender.
+
 
 ## Chaotic rendering
 ![Capture](Chaos.png)
@@ -11,4 +12,5 @@ This script is executed from the "Scripting" part of Blender.
 
 
 ## How to do this 
+This script is executed from the "Scripting" part of Blender.
 ![Capture](how.png)
