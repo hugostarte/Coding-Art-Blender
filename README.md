@@ -10,5 +10,5 @@ This script is executed from the "Scripting" part of Blender.
 ![Capture](Linear.png)
 
 
-## How to do this :
+## How to do this 
 ![Capture](how.png)
