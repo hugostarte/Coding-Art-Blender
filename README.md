@@ -3,8 +3,8 @@ Inspired by David Mignot.
 
 This script is executed from the "Scripting" part of Blender.
 
-Chaotic rendering
+##Chaotic rendering
 ![Capture](Chaos.png)
 
-linear rendering
+##Linear rendering
 ![Capture](Linear.png)
